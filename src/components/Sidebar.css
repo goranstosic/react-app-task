@@ -1,0 +1,32 @@
+.sidebar_container {
+    width: 350px;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+.sidebar_container span {
+    margin-top: 20px;
+}
+
+.sidebar_container span {
+    font-size: 17px;
+    font-weight: 700;
+    margin-left: 5px;
+}
+
+.sidebar_container ul {
+    list-style: none;
+    margin-left: 20px;
+}
+
+.sidebar_container ul li {
+    padding: 5px 0px;
+}
+
+.sidebar_title {
+    margin-top: 20px;
+}
+
+.sidebar_title .svg-inline--fa {
+    margin-bottom: 1px;
+}

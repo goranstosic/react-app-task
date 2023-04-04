@@ -1,0 +1,17 @@
+.user_row {
+    display: table;
+    width: 800px;
+    table-layout: fixed;
+    padding: 10px;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.user_row > div {
+    display: table-cell;
+}
+
+.user_row img {
+    width: 30px;
+    border-radius: 50%;
+    margin-left: 5px;
+}

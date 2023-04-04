@@ -1,0 +1,16 @@
+.user_list {
+    background: #fff;
+}
+
+.table_header {
+    display: table;
+    background: #F1F5F9;
+    display: table;
+    width: 100%;
+    padding: 10px;
+}
+
+.table_header > div {
+    min-width: 150px;
+    display: table-cell;
+}
